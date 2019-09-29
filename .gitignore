@@ -1,0 +1,19 @@
+*~
+*.DS_Store
+.idea
+
+# all backup files
+*.bak
+*.BAK
+*._*
+*.swp
+\#*#
+tmp
+.\#*
+
+# ignore npm
+node_modules
+npm-debug.log
+
+# ignore electron
+niconico-slack-darwin-x64
