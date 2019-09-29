@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Nico Nico Slack</title>
+    <script src="lib/socket.io-2.1.1.min.js"></script>
+    <script>
+        window.jQuery = window.$ = require('./lib/jquery-3.3.1.min.js');
+    </script>
+</head>
+
+<body>
+
+    <div id="app"> </div>
+
+    <script>
+        require('./renderer.js')
+    </script>
+
+</body>
+
+</html>

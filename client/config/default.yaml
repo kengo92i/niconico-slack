@@ -1,0 +1,3 @@
+config:
+    fname: "default.yaml"
+    hostname: "niconico-slack-xxxxxx-xxxxx.appspot.com"
