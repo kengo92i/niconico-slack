@@ -12,7 +12,7 @@
   "author": "kengo92i",
   "license": "MIT",
   "dependencies": {
-    "config": "^3.2.2",
+    "electron-node-config": "^1.1.0",
     "js-yaml": "^3.13.1"
   }
 }

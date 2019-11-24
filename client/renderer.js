@@ -1,7 +1,7 @@
 const electron = require('electron');
 const { screen } = electron;
 const NicommentJS = require('./lib/nicommentJS.js');
-const config = require('config')
+const config = require('electron-node-config');
 
 let size = screen.getPrimaryDisplay().size;
 
